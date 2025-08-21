@@ -1,8 +1,4 @@
-% =========================================================================
-%      PIPELINE HYDRAULICS AND PRESSURE RELIEF SYSTEM ANALYSIS
-% =========================================================================
-
- Project Description:
+Project Description:
  This script models a fluid transport pipeline system to determine its
  normal operating requirements and to design a critical safety device.
 
