@@ -17,6 +17,6 @@ Part 1: Normal Operation Hydraulics
    - Selects the next standard API orifice size.
 
  Relevant Subjects Utilized:
-  CHC202 Fluid and Particle Mechanics: Reynolds number, friction factor, head loss.
-  CHC201 Chemical Process Calculations: Mass and energy balances.
-  CSI101 Computer Programming: Structuring code, creating functions.
+ 1. CHC202 Fluid and Particle Mechanics: Reynolds number, friction factor, head loss.
+ 2. CHC201 Chemical Process Calculations: Mass and energy balances.
+     CSI101 Computer Programming: Structuring code, creating functions.
